@@ -6,7 +6,7 @@
 <div class="row">
 <div class="col-lg-12 margin-tb">
     <div class="">
-        <h2>Add Drug</h2>
+        <h2>Update Drug</h2>
     </div>
     <div class="pull-right">
         <a class="btn btn-primary" href="{{ route('drugs.index') }}"> Back</a>
